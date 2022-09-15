@@ -15,6 +15,7 @@
 		CB9A6A4F28D3B19D0046E9C8 /* WhatsNewiOS16UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9A6A4E28D3B19D0046E9C8 /* WhatsNewiOS16UITests.swift */; };
 		CB9A6A5128D3B19D0046E9C8 /* WhatsNewiOS16UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9A6A5028D3B19D0046E9C8 /* WhatsNewiOS16UITestsLaunchTests.swift */; };
 		CB9A6A5E28D3B2390046E9C8 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9A6A5D28D3B2390046E9C8 /* ChartView.swift */; };
+		CB9A6A6228D3BA950046E9C8 /* SFSymbols4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9A6A6128D3BA950046E9C8 /* SFSymbols4View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		CB9A6A4E28D3B19D0046E9C8 /* WhatsNewiOS16UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsNewiOS16UITests.swift; sourceTree = "<group>"; };
 		CB9A6A5028D3B19D0046E9C8 /* WhatsNewiOS16UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsNewiOS16UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		CB9A6A5D28D3B2390046E9C8 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
+		CB9A6A6128D3BA950046E9C8 /* SFSymbols4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFSymbols4View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				CB9A6A3328D3B19C0046E9C8 /* WhatsNewiOS16App.swift */,
 				CB9A6A3528D3B19C0046E9C8 /* ContentView.swift */,
 				CB9A6A5D28D3B2390046E9C8 /* ChartView.swift */,
+				CB9A6A6128D3BA950046E9C8 /* SFSymbols4View.swift */,
 				CB9A6A3728D3B19D0046E9C8 /* Assets.xcassets */,
 				CB9A6A3928D3B19D0046E9C8 /* Preview Content */,
 			);
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB9A6A6228D3BA950046E9C8 /* SFSymbols4View.swift in Sources */,
 				CB9A6A3628D3B19C0046E9C8 /* ContentView.swift in Sources */,
 				CB9A6A3428D3B19C0046E9C8 /* WhatsNewiOS16App.swift in Sources */,
 				CB9A6A5E28D3B2390046E9C8 /* ChartView.swift in Sources */,
